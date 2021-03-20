@@ -1,8 +1,6 @@
-required 
 
-pip install pyttsx3
 # Hawaiian Word Pronouncer
-### Hawaiian words can be intimidating to attempt to pronounce.
+### Hawaiian words can be hard to pronounce.
 ###### The 12 valid characters in the Hawaiian language are:
 a, e, i, o, u, p, k, h, l, m, n, and w. 
 ###### 
@@ -38,3 +36,7 @@ Enter a hawaiian word to pronounce ==> kaiapuni
 KAIAPUNI is pronounced Keye-ah-poo-nee
 
 Do you want to enter another word? Y/YES/N/NO
+
+
+### Dependency
+pip install pyttsx3
