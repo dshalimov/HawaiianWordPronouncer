@@ -6,7 +6,7 @@ a, e, i, o, u, p, k, h, l, m, n, and w.
 ###### 
 p, k, h, l, m, n pronounced like the english versions.
 ###### 
-w -start of word pronounced as a w sound. w -after ‘i’ or ‘e’ pronounced as a v sound.
+w -start of word pronounced as a w sound. w -after ‘i’ or ‘e’ pronounced as a v sound, otherwise it is pronounced as w sound.
 #####
 - a sounds like ah
 - e sounds like eh
