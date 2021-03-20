@@ -1,4 +1,6 @@
+required 
 
+pip install pyttsx3
 # Hawaiian Word Pronouncer
 ### Hawaiian words can be intimidating to attempt to pronounce.
 ###### The 12 valid characters in the Hawaiian language are:
