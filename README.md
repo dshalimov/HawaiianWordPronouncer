@@ -39,6 +39,30 @@ KAIAPUNI is pronounced Keye-ah-poo-nee
 
 Do you want to enter another word? Y/YES/N/NO
 
+Enter a hawaiian word to pronounce: maui
+
+maui is pronounced mow-ee
+
+Do you want to enter another word? Y/YES/N/NO 
+
+Enter Y, YES, N or NO: Y
+
+Enter a hawaiian word to pronounce: Oahu
+
+Oahu is pronounced oh-ah-hoo
+
+Do you want to enter another word? Y/YES/N/NO 
+
+Enter Y, YES, N or NO: Y
+
+Enter a hawaiian word to pronounce: Waimanalo
+
+Waimanalo is pronounced weye-mah-nah-loh
+
+Do you want to enter another word? Y/YES/N/NO 
+
+Enter Y, YES, N or NO: N
+
 
 ### Dependency
 pip install pyttsx3
