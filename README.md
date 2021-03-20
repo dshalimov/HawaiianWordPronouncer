@@ -1,5 +1,7 @@
 
 # Hawaiian Word Pronouncer
+https://www.to-hawaii.com/hawaiian-dictionary.php
+
 ### Hawaiian words can be hard to pronounce.
 ###### The 12 valid characters in the Hawaiian language are:
 a, e, i, o, u, p, k, h, l, m, n, and w. 
